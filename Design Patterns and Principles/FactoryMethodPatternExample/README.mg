@@ -10,7 +10,7 @@ In this example, a Document Management System is developed to create different t
 * PDF Document
 * Excel Document
 
----
+
 
 ## Project Structure
 
@@ -30,7 +30,7 @@ FactoryMethodPatternExample
 └── FactoryMethodPatternExample.java
 ```
 
----
+
 
 ## Classes Description
 
@@ -66,7 +66,7 @@ Each factory creates its respective document object.
 
 Client class used to test the Factory Method implementation.
 
----
+
 
 ## How to Compile
 
@@ -74,7 +74,7 @@ Client class used to test the Factory Method implementation.
 javac *.java
 ```
 
----
+
 
 ## How to Run
 
@@ -92,7 +92,7 @@ Opening PDF Document
 Opening Excel Document
 ```
 
----
+
 
 ## Factory Method Pattern Components
 
