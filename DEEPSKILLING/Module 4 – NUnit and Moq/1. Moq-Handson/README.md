@@ -51,4 +51,4 @@ Uses an `IMailSender` object through constructor injection to send emails to cus
 
 ## Author
 
-**Bhavana Parupalli**
+**Doddi Rakesh**
